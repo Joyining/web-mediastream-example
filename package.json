@@ -1,0 +1,17 @@
+{
+  "name": "web-mediastream-example",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5"
+  }
+}
